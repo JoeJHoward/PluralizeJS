@@ -1,0 +1,2 @@
+# PluralizeJS
+Javascript String Pluralizer
